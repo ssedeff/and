@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\and-or-not-ornek\and-or-not-ornek\bin\Debug\and-or-not-ornek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\and-or-not-ornek\and-or-not-ornek\bin\Debug\and-or-not-ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\and-or-not-ornek\and-or-not-ornek\bin\Debug\and-or-not-ornek.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\and-or-not-ornek\and-or-not-ornek\obj\Debug\and-or-not-ornek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\and-or-not-ornek\and-or-not-ornek\obj\Debug\and-or-not-ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\and-or-not-ornek\and-or-not-ornek\obj\Debug\and_or_not_ornek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\and-or-not-ornek\and-or-not-ornek\obj\Debug\and_or_not_ornek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\and-or-not-ornek\and-or-not-ornek\obj\Debug\and-or-not-ornek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\and-or-not-ornek\and-or-not-ornek\obj\Debug\and-or-not-ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\and-or-not-ornek\and-or-not-ornek\obj\Debug\and-or-not-ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\and-or-not-ornek\and-or-not-ornek\obj\Debug\and-or-not-ornek.pdb
